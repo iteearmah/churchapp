@@ -2,8 +2,8 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <style name="Theme" parent="@style/Theme.Tabris.Light.DarkActionBar">
-        <item name="colorPrimary">#FF4081</item>
-        <item name="colorPrimaryDark">#FF4081</item>
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
         <item name="colorAccent">#FF4081</item>
     </style>
 
